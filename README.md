@@ -1,0 +1,1 @@
+Hello this is TASK N°1 for JS 
